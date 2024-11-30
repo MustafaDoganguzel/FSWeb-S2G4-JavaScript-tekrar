@@ -37,7 +37,9 @@ const sayilar = [
 
 //Örneğin çözümü:
 function KareninAlani(kenaruzunlugu) {
-  return kenaruzunlugu * kenaruzunlugu;
+  return kenaruzunlugu * kenaruzunlugu + 1 ;
+
+ //  const mustafa = 2 ; 
 }
 
 /* (Oto test yok) Yukarıdaki KareninAlani fonksiyonunu kenar uzunluğu = 10 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
