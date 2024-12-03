@@ -40,6 +40,7 @@ function KareninAlani(kenaruzunlugu) {
   const a= ""; 
   // commit
     // commit
+     // commit
   return kenaruzunlugu * kenaruzunlugu + 1 ;
 
  //  const mustafa = 2 ; 
