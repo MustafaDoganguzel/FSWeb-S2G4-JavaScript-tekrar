@@ -38,6 +38,7 @@ const sayilar = [
 //Örneğin çözümü:
 function KareninAlani(kenaruzunlugu) {
   const a= ""; 
+  // commit
   return kenaruzunlugu * kenaruzunlugu + 1 ;
 
  //  const mustafa = 2 ; 
